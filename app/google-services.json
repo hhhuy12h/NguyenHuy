@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911767384854",
+    "project_id": "ontap1-20843",
+    "storage_bucket": "ontap1-20843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911767384854:android:42f71d5ec304f8ddca1637",
+        "android_client_info": {
+          "package_name": "com.example.ontap1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911767384854-1hnv9d5gl5g6eff34ak37lj3ivnmnklb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BsZRhC2Ao3DMf5h5_sQ0K05HTzMdCbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911767384854-1hnv9d5gl5g6eff34ak37lj3ivnmnklb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
